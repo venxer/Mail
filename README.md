@@ -1,2 +1,2 @@
 # Mail
-A local mail-like chatroom between users with a GUI interface
+A local message sender built with a user friendly GUI 
